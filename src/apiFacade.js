@@ -1,4 +1,4 @@
-const URL = "https://https://thorsen-dynastiet.com/3SemesterSPA";
+const URL = "https://https://thorsen-dynastiet.com/3SemesterEksamen";
 
 function handleHttpErrors(res) {
   if (!res.ok) {
